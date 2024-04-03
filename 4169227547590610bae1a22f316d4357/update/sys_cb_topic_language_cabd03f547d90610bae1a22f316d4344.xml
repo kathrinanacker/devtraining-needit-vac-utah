@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cb_topic_language">
+    <sys_cb_topic_language action="INSERT_OR_UPDATE">
+        <cb_topic_id display_value="Update NeedIt Records">6d6e6a7547590610bae1a22f316d43c0</cb_topic_id>
+        <language_code>en</language_code>
+        <nlu_entities>[{"node_id":"0b57b9e82d184780b1e1af3de9ca2191","variable_name":"update_options","nlu_entity":"","nlu_entity_label":""},{"node_id":"5fbf2381c419462194b92182bedf08de","variable_name":"new_short_description","nlu_entity":"","nlu_entity_label":""}]</nlu_entities>
+        <nlu_intent/>
+        <nlu_intent_label/>
+        <nlu_model>sn_itsm_nlu_ITSM_NLU_for_VA</nlu_model>
+        <nlu_model_label>ITSM NLU for Virtual Agent</nlu_model_label>
+        <nlu_provider>64c023c17300330021a044764df6a70e</nlu_provider>
+        <sys_class_name>sys_cb_topic_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-02 09:14:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cabd03f547d90610bae1a22f316d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_1299271_needit_v">4169227547590610bae1a22f316d4357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">4169227547590610bae1a22f316d4357</sys_scope>
+        <sys_update_name>sys_cb_topic_language_cabd03f547d90610bae1a22f316d4344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-02 13:20:51</sys_updated_on>
+    </sys_cb_topic_language>
+</record_update>
